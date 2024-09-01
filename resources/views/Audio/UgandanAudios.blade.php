@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>..:: Sunnah Islam Media ::..</title>
+    <title>..:: Taubah Daawah Uganda ::..</title>
 
     <!-- CSS FILES -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -329,7 +329,7 @@
                     </div>
 
                     <div class="col-lg-3 col-12">
-                        <p class="copyright-text mb-0">Copyright © 2023 Sunnah Islam Media</p>
+                        <p class="copyright-text mb-0">Copyright © 2023 Taubah Daawah Uganda</p>
                     </div>
                 </div>
             </div>
